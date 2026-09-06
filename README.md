@@ -12,7 +12,8 @@ Reporte de Telemetría y Cálculo:
 ![Imágen de MatPlotLib](https://github.com/NaimParedes/Proyecto---Trayectoria-de-un-Dron/blob/main/Reporte%20de%20Telemetr%C3%ADa%20y%20C%C3%A1lculo%20.png?raw=true)
 
 Fórmulas Utilizadas:
-Velocidad Instantánea: v(t) = \frac{d}{dt}h(t) = -0.4t^3 + 4.8t^2 - 14.4t + 10
+Velocidad Instantánea: 
+v(t) = \frac{d}{dt}h(t) = -0.4t^3 + 4.8t^2 - 14.4t + 10
 Segunda Derivada: a(t) = \frac{d^2}{dt^2}h(t) = -1.2t^2 + 9.6t - 14.4
 Recta Tangente: y - v(t_{\text{máx}}) = a(t_{\text{máx}}) \cdot (t - t_{\text{máx}})
 Tasa Instantánea de Calentamiento: T'(t) = 0.6t^2 - 2t + 4 \quad [\text{°C/s}]
